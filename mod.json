@@ -1,0 +1,19 @@
+{
+    "geode": "5.7.1",
+    "gd": {
+        "win": "2.2081"
+    },
+    "version": "v1.0.2",
+    "id": "goat.level-recorder",
+    "name": "level recorder",
+    "developer": "goat",
+    "description": "A native rendering hook to pipe raw OpenGL frames directly to FFmpeg for lossless recordings!",
+    "tags": [
+        "utility",
+        "interface"
+    ],
+    "links": {
+        "community": "https://discord.gg/eUBfTeFYvB",
+        "source": "https://github.com/ToastedNub/GD-Level-Recorder-Mod"
+    }
+}
